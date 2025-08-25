@@ -1,0 +1,18 @@
+# Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+
+# Rider / JetBrains IDE files (optional)
+.idea/
+
+# Node / npm (if you have front-end packages)
+node_modules/
+
+# Others
+*.log
