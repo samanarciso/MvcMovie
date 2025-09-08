@@ -22,5 +22,9 @@
 		<Compile Remove="obj\**\*.cs" />
 		<Compile Remove="bin\**\*.cs" />
 	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="Services\" />
+	  <Folder Include="Views\Movies\" />
+	</ItemGroup>
 </Project>
 
